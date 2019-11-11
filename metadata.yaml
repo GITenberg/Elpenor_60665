@@ -1,0 +1,20 @@
+_repo: Elpenor_60665
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Giraudoux, Jean
+    gutenberg_agent_id: '51078'
+    url: http://www.gutenberg.org/2009/agents/51078
+description: ''
+gutenberg_issued: '2019-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60665'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Elpénor
+url: http://www.gutenberg.org/ebooks/60665
